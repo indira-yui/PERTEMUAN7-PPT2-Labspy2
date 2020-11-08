@@ -4,6 +4,12 @@
 ### NIM: 312010042
 ___________________________________________________________________________________
 
- Pada pertemuan 7 tugas PPT ke-2 ini, saya diberikan beberapa tugas oleh dosen saya yaitu 
+# TUGAS PRAKTIKUM 2
+
+## SOAL
+
+![Soal Pratikum 2](Gambar/soalpratikum2.png) <br>
+
+
+
  
- ![Tugas Pratikum 2](Gambar/soalpratikum2.png) <br>
