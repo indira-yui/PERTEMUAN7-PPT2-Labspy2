@@ -33,4 +33,8 @@ ________________________________________________________________________________
 ```
   
 ![Input](Gambar/input.png) <br>
+
+- Simpan dengan nama `labspy02.py`, Kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
+
+![Output](Gambar/labspy02.png) <br>
   
